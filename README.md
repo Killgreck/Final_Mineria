@@ -87,11 +87,12 @@ Construir un modelo de clasificación que permita predecir si el tráfico portua
 ├── 📂 notebooks/
 │   └── Copia_de_Preparación_de_los_datos.ipynb    # Análisis exploratorio
 │   └── Modelos_y_optimizacion.ipynb               # Creacion y optimizacion de los modelos
+│   └── Preparacion_de_los_datos.ipynb             # Preparacion, imputacion y transformaciones para los datos
 ├── 📂 src/
 │   ├── app.py                        # Aplicación Streamlit
 │   └── requirements.txt              # Dependencias
 ├── 📂 docs/
-│   └── este_si_es_joda_(1).pdf      # Documentación completa
+│   └── Documentacion.pdf             # Documentación completa
 └── README.md                         # Este archivo
 ```
 
