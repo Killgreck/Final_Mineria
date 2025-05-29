@@ -85,7 +85,8 @@ Construir un modelo de clasificación que permita predecir si el tráfico portua
 ├── 📂 models/
 │   └── campeon_secuencial_Gradient_Boosting.joblib  # Modelo entrenado
 ├── 📂 notebooks/
-│   └── Copia_de_Preparación_de_los_datos.ipynb     # Análisis exploratorio
+│   └── Copia_de_Preparación_de_los_datos.ipynb    # Análisis exploratorio
+│   └── Modelos_y_optimizacion.ipynb               # Creacion y optimizacion de los modelos
 ├── 📂 src/
 │   ├── app.py                        # Aplicación Streamlit
 │   └── requirements.txt              # Dependencias
